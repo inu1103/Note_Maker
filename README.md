@@ -12,3 +12,9 @@ This involves a simple User login at the Client-side, which involves an email lo
 
 As soon as your note is completed and you click on submit, your requests reach the Firebase and your data is stored safely and securely within the FireStore DataBase. Even when you successfully create a note, you can edit it, delete it or add-on something new in it with the help of Dashboard options, which can show your Profile information too.
 
+From the uploaded files:-
+
+1). the PPT shows the visual representation of the work performed by the team and the different steps involved, having theory and pictures.
+2). a PDF has been provided for the installation steps of the software used. 
+3). "main" folder conatins the source code of the Projcet.
+
